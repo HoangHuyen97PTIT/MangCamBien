@@ -1,0 +1,78 @@
+
+/* div.flower{
+	background-image: url('hoa1.jpeg');
+	background-repeat: repeat-x;
+	/* background-position: 500px 250px;
+	background-size: 400px 300px; 
+}  */
+img{
+	width: 100%;
+}
+div.gallery1{
+	float: center;
+	margin: : 15px;
+	width: 150px;
+	height: 150px;
+	position: fixed;
+	left: 450px;
+	top: 230px;
+}
+div.gallery2{
+	float: center;
+	width: 300px;
+	position: fixed;
+	right: 350px;
+	bottom: 220px;
+}
+div.gallery3{
+	float: center;
+	width: 300px;
+	position: fixed;
+	right: 500px;
+	bottom: 300px;
+}
+div.s1{
+	position: fixed;
+	right: 500px;
+	bottom: 130px;
+	width: 400px;
+	height: 300px
+}
+div.desc{
+	/* color: #0066ff */
+	padding: 12px;
+	text-align: center;
+	text-shadow: 3px 2px yellow;
+	color: #0066ff
+}
+nav.space{
+	padding: 20px;
+}
+ul.font{
+	list-style-type:initial;
+	font-size: 120%
+}
+a{
+	padding: 15px;
+}
+a:link {
+  	text-decoration: none;
+
+  	/*word-spacing: 10px;*/
+}
+a:visited{
+	color: #006600;
+	text-decoration: none;
+}
+a:hover{
+	color: blue;
+	text-decoration: underline;
+}
+a:active {
+	color: red;
+	text-decoration: underline;
+}
+
+a.sha{
+	text-shadow: 3px 2px #ff8080;
+}
